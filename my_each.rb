@@ -1,3 +1,4 @@
 def my_each # put argument(s) here
-  # code here
+  count = 0 
+  while # code here
 end
